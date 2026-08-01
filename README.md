@@ -44,3 +44,14 @@ An end-to-end options research pipeline: recovers implied volatility from option
 ![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naman-ghost&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-ghost&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naman-ghost&theme=radical)
+
+---
+### 🧩 LeetCode Stats
+![Naman's LeetCode Stats](https://leetcard.jacoblin.cool/Naman_64?theme=dark&font=Baloo%202&ext=heatmap)
+
+---
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Naman-ghost&theme=radical&no-frame=true&row=1&column=6)
+
+---
+![Profile Views](https://komarev.com/ghpvc/?username=Naman-ghost&color=blueviolet&style=flat&label=Profile+Views)
